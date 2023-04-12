@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 21363126,
+      "imageUrl": "https://guide-images.cdn.ifixit.com/igi/o4OjCNmNeOhvsS1P.large",
+      "name": "Phone",
+      "count": 32,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "0.2",
+      "comments": ["CommentModel", "CommentModel"]
+    },
+    {
+      "id": 2436347,
+      "imageUrl": "https://images.philips.com/is/image/PhilipsConsumer/58PUS6504_12-IMS-uk_UA?$jpglarge$&wid=1250",
+      "name": "TV",
+      "count": 12,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "7",
+      "comments": ["CommentModel", "CommentModel"]
+    },
+    {
+      "id": 90787987,
+      "imageUrl": "https://i.ebayimg.com/images/g/CgQAAOSwJsBieTUf/s-l500.jpg",
+      "name": "PC",
+      "count": 9,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "6",
+      "comments": ["CommentModel", "CommentModel"]
+    },
+    {
+      "id": 233259996,
+      "imageUrl": "https://content.rozetka.com.ua/goods/images/big/269608304.jpg",
+      "name": "Laptop",
+      "count": 15,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "3",
+      "comments": ["CommentModel", "CommentModel"]
+    },
+    {
+      "id": 463796293,
+      "imageUrl": "https://cdn.27.ua/sc--media--prod/default/ae/7e/60/ae7e609d-58f8-4ff8-a5e1-1879e977d892.jpg",
+      "name": "Ball",
+      "count": 76,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "0.3",
+      "comments": ["CommentModel", "CommentModel"]
+    },
+    {
+      "id": 23523623,
+      "imageUrl": "https://media.istockphoto.com/id/178479911/photo/tennis-racket-black-and-white-style.jpg?s=612x612&w=0&k=20&c=RP-NT5zb8ml1EYbcELGtBoKjIme7XbOBkEjKpvT1MuY=",
+      "name": "Racket",
+      "count": 22,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "0.25",
+      "comments": ["CommentModel", "CommentModel"]
+    }
+  ]
+}

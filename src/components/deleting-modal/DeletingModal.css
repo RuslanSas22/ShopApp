@@ -1,0 +1,46 @@
+.del-modal-background {
+  width: 30%;
+  height: 30%;
+  background-color: rgb(236, 236, 236);
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.99;
+  z-index: 1;
+}
+
+.del-modal-container {
+  background-color: white;
+  height: 80px;
+  width: 400px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  font-size: large;
+}
+.del-modal-container .footer {
+  display: flex;
+  justify-content: space-around;
+  width: 70%;
+}
+
+.del-modal-container .footer button {
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+  background-color: red;
+  color: black;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.del-modal-container .footer :last-child {
+  background-color: black;
+  color: white;
+}

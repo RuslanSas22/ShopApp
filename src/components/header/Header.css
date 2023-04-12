@@ -1,0 +1,30 @@
+.header-container {
+  background-color: black;
+  color: white;
+  height: 6%;
+  width: 100%;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.add-new {
+  position: absolute;
+  right: 15px;
+  width: 150px;
+  height: 40px;
+  background-color: red;
+  font-weight: 700;
+  color: white;
+  cursor: pointer;
+}
+
+.add-new:hover {
+  color: black;
+}
